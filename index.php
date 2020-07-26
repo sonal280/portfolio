@@ -398,42 +398,74 @@
                 </div>
                 <div class="space-60"></div>
                 <div class="row">
-                    <ul id="da-thumbs" class="da-thumbs portfolio-carousel owl-carousel">
-                        <li>
-                            <a href="portfolio.html">
-                                <img src="assets/img/project/project1.png" alt="">
-                                <div><span>Menu by Simon Jensen</span></div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="portfolio.html">
-                                <img src="assets/img/project/project2.png" alt="">
-                                <div><span>Menu by Simon Jensen</span></div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="portfolio.html">
-                                <img src="assets/img/project/project3.png" alt="">
-                                <div><span>Menu by Simon Jensen</span></div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="portfolio.html">
-                                <img src="assets/img/project/project4.png" alt="">
-                                <div>
-                                    <span>Menu by Simon Jensen</span>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="portfolio.html">
-                                <img src="assets/img/project/project2.png" alt="">
-                                <div>
-                                    <span>Menu by Simon Jensen</span>
-                                </div>
-                            </a>
-                        </li>
-                    </ul>
+                    <div class="col-md-4">
+                        <a href="portfolio.html">
+                            <img src="assets/img/project/project1.png" alt="">
+                            <div><span>Menu by Simon Jensen</span></div>
+                        </a>
+                    </div>
+                
+                    <div class="col-md-4">
+                        <a href="portfolio.html">
+                            <img src="assets/img/project/project2.png" alt="">
+                            <div><span>Menu by Simon Jensen</span></div>
+                        </a>
+                    </div>
+                
+                    <div class="col-md-4">
+                        <a href="portfolio.html">
+                            <img src="assets/img/project/project3.png" alt="">
+                            <div><span>Menu by Simon Jensen</span></div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="space-60"></div>
+                <div class="row">
+                    <div class="col-md-4 da-thumbs portfolio-carousel owl-carousel">
+                        <a href="portfolio.html">
+                            <img src="assets/img/project/project1.png" alt="">
+                            <div><span>Menu by Simon Jensen</span></div>
+                        </a>
+                    </div>
+                
+                    <div class="col-md-4">
+                        <a href="portfolio.html">
+                            <img src="assets/img/project/project2.png" alt="">
+                            <div><span>Menu by Simon Jensen</span></div>
+                        </a>
+                    </div>
+                
+                    <div class="col-md-4">
+                        <a href="portfolio.html">
+                            <img src="assets/img/project/project3.png" alt="">
+                            <div><span>Menu by Simon Jensen</span></div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="space-60"></div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <a href="portfolio.html">
+                            <img src="assets/img/project/project1.png" alt="">
+                            <div><span>Menu by Simon Jensen</span></div>
+                        </a>
+                    </div>
+                
+                    <div class="col-md-4">
+                        <a href="portfolio.html">
+                            <img src="assets/img/project/project2.png" alt="">
+                            <div><span>Menu by Simon Jensen</span></div>
+                        </a>
+                    </div>
+                
+                    <div class="col-md-4">
+                        <a href="portfolio.html">
+                            <img src="assets/img/project/project3.png" alt="">
+                            <div><span>Menu by Simon Jensen</span></div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
