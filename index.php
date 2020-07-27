@@ -93,11 +93,11 @@
                             <div class="stellarnav">
                                 <ul class="navbarmneuclass">
                                     <li><a href="#about">About</a></li>
-                                    <li><a href="#about">Experince</a></li>
+                                    <li><a href="#experience">Experince</a></li>
                                     <li><a href="#skills">Skills</a></li>
-                                    <li><a href="#portfolio">Projects</a></li>
-                                    <li><a href="#portfolio">Education</a></li>
-                                    <li><a href="#portfolio">Contact Me</a></li>
+                                    <li><a href="#projects">Projects</a></li>
+                                    <li><a href="#education">Education</a></li>
+                                    <li><a href="#contact">Contact Me</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -164,7 +164,7 @@
         <!--:::::ABOUT AREA END :::::::-->
 
         <!--:::::EXPERIENCE AREA START :::::::-->
-        <div class="skill-area section-padding section-paddings" id="portfolio">
+        <div class="skill-area section-padding section-paddings" id="experience">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 align-self-center">
@@ -182,25 +182,57 @@
                 </div>
                 <div class="space-60"></div>
                 <div class="row">
-                    <div class="col-sm-6 col-lg-4">
+                    <div class="col-sm-12 col-lg-12">
                         <div class="skill-box">
                             <small>Jan 2020 -  Present (Junior Developer)</small>
                             <h5>Virasat Solution</h5>
-                            <p>All you need to do your best work together in one package works seamlessly computer</p>
+                            <h4>Develop Product - </h4>
+                            <ul>
+                                <li> - Contribute in updation of maany projects using PHP, MySQL, Wordpress, AJAX, jQuery</li>
+                                <li> - Develop one projects in wordpress</li>
+                                <li><b> - Tools: </b>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, PHP, MySQL, Wordprress, Github</li>
+                            </ul>
+                            <br>
+                            <h4>Achievement - </h4>
+                            <ul>
+                                <li> - Dramatically improved accuracy, coverage and speed of core PHP</li>
+                                <li> - Learnt Version Control using Github & Gitlab on production level</li>
+                                <li> - Learnt Wordpress</li>
+                                <li> - Learnt Laravel by own</li>
+                            </ul>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-lg-4">
+                    <div class="col-sm-12 col-lg-12">
                         <div class="skill-box">
                             <small>Aug 2019 - Nov 2019 (Junior Developer)</small>
                             <h5>Proximity IT Solution</h5>
-                            <p>All you need to do your best work together in one package works seamlessly computer</p>
+                            <h4>Develop Product - </h4>
+                            <ul>
+                                <li> - Contribute in updation of maany projects using PHP, MySQL, AJAX, jQuery</li>
+                                <li> - Develop one projects from scratch</li>
+                                <li><b> - Tools: </b>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, PHP, MySQL</li>
+                            </ul>
+                            <br>
+                            <h4>Achievement - </h4>
+                            <ul>
+                                <li> - Dramatically improved accuracy, coverage and speed of of core php</li>
+                                <li> - Learnt AJAX, jQuery</li>
+                                <li> - Learnt about Server & Hosting</li>
+                                <li> - Learnt Codeigniter by own</li>
+                            </ul>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-lg-4">
+                    <div class="col-sm-12 col-lg-12">
                         <div class="skill-box">
                             <small>Dec 2017 - Aug 2019 (Lecturer)</small>
                             <h5>M.M. College of technology</h5>
-                            <p>All you need to do your best work together in one package works seamlessly computer</p>
+                            <h4>Achievement - </h4>
+                            <ul>
+                                <li> - Build Self Confidence & teach how to handle different-different types of people</li>
+                                <li> - Taught many subjects to engineering students and diploma students also. Subjects are - Data Structure, ADA, Software Engineering & Project Management, Computer Fundamental & its apllications</li>
+                                <li> - Guide & Mentor of last year students</li>
+                                <li> - Maintain college's own website</li>
+                            </ul>
                         </div>
                     </div>
                    
@@ -210,7 +242,7 @@
         <!--:::::EXPERIENCE AREA END :::::::-->
 
         <!--:::::SKILLS AREA START :::::::-->
-        <div class="skill-area section-padding" id="portfolio">
+        <div class="skill-area section-padding" id="skills">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 align-self-center">
@@ -305,7 +337,7 @@
         <!--:::::SKILLS AREA END :::::::-->
 
         <!--:::::SERVICE AREA START :::::::-->
-        <div class="service-area padding-bottom" id="service">
+        <div class="service-area padding-bottom" id="education">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 align-self-center">
@@ -380,7 +412,7 @@
         <!--:::::SERVICE AREA END :::::::-->
 
         <!--:::::PROJECT AREA START :::::::-->
-        <div class="project-area section-padding" >
+        <div class="project-area section-padding" id="projects">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 align-self-center">
@@ -401,45 +433,45 @@
                     <div class="col-md-4">
                         <a href="portfolio.html">
                             <img src="assets/img/project/project1.png" alt="">
-                            <div><span>Menu by Simon Jensen</span></div>
+                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
                         </a>
                     </div>
                 
                     <div class="col-md-4">
                         <a href="portfolio.html">
                             <img src="assets/img/project/project2.png" alt="">
-                            <div><span>Menu by Simon Jensen</span></div>
+                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
                         </a>
                     </div>
                 
                     <div class="col-md-4">
                         <a href="portfolio.html">
                             <img src="assets/img/project/project3.png" alt="">
-                            <div><span>Menu by Simon Jensen</span></div>
+                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
                         </a>
                     </div>
                 </div>
 
                 <div class="space-60"></div>
                 <div class="row">
-                    <div class="col-md-4 da-thumbs portfolio-carousel owl-carousel">
+                    <div class="col-md-4 ">
                         <a href="portfolio.html">
                             <img src="assets/img/project/project1.png" alt="">
-                            <div><span>Menu by Simon Jensen</span></div>
+                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
                         </a>
                     </div>
                 
                     <div class="col-md-4">
                         <a href="portfolio.html">
                             <img src="assets/img/project/project2.png" alt="">
-                            <div><span>Menu by Simon Jensen</span></div>
+                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
                         </a>
                     </div>
                 
                     <div class="col-md-4">
                         <a href="portfolio.html">
                             <img src="assets/img/project/project3.png" alt="">
-                            <div><span>Menu by Simon Jensen</span></div>
+                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
                         </a>
                     </div>
                 </div>
@@ -449,21 +481,21 @@
                     <div class="col-md-4">
                         <a href="portfolio.html">
                             <img src="assets/img/project/project1.png" alt="">
-                            <div><span>Menu by Simon Jensen</span></div>
+                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
                         </a>
                     </div>
                 
                     <div class="col-md-4">
                         <a href="portfolio.html">
                             <img src="assets/img/project/project2.png" alt="">
-                            <div><span>Menu by Simon Jensen</span></div>
+                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
                         </a>
                     </div>
                 
                     <div class="col-md-4">
                         <a href="portfolio.html">
                             <img src="assets/img/project/project3.png" alt="">
-                            <div><span>Menu by Simon Jensen</span></div>
+                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
                         </a>
                     </div>
                 </div>
@@ -472,7 +504,7 @@
         <!--:::::PROJECT AREA END :::::::-->
 
         <!--:::::CONTACT AREA START :::::::-->
-        <div class="contact-page-area inner-bg-shpes section-padding">
+        <div class="contact-page-area inner-bg-shpes section-padding" id="contact">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-4 text-center">
@@ -610,16 +642,16 @@
                     <div class="col-lg-6 m-auto text-center">
                         <div class="footer-menu">
                             <ul>
-                                <li><a href="#">about me</a></li>
-                                <li><a href="#">career</a></li>
-                                <li><a href="#">blog</a></li>
-                                <li><a href="#">gallery</a></li>
-                                <li><a href="#">contact me</a></li>
+                                <li><a href="about">About</a></li>
+                                <li><a href="experience">Experience</a></li>
+                                <li><a href="skills">Skills</a></li>
+                                <li><a href="projects">Projects</a></li>
+                                <li><a href="education">Education</a></li>
                             </ul>
                         </div>
                         <div class="space-40"></div>
                         <div class="copyright">
-                            <p>Copyright © 2019 by <span> QuomodoTheme </span> all right reserved</p>
+                            <p>Developed by Sonal Choudhary</p>
                         </div>
                     </div>
                 </div>
