@@ -1,0 +1,56 @@
+4) CGRTI SANGH - 
+Responsive website for community itself. CGRTI SANGH website for organize their upcomming events, survey, become membership through this site. 
+
+Accomplishment - 
+a) Responsive design
+b) Many concept implimentation 
+c) JavaScript Input validation
+d) Operation perform via AJAX
+e) Hindi Language Support
+
+5) Chhattisgrah Rajya (News Portal) - It covers from different-different fields such as national, international news, buisness, astrology, health and sports Entertainment, Crime etc related news.
+Accomplishment - 
+a) Database design
+b) MySQL Backend
+c) Javascript & Jquery input validation
+d) Client-side rendering via AJAX
+
+6) Darpan (News Portal) - Demo News Portal which covers technology related information developed by using codeignitor
+
+Accomplishment - 
+a) Responsive design
+b) Database design
+c) MySQL Backend
+d) Javascript & Jquery input validation
+e) Client-side rendering via AJAX
+
+7) OpenEMR - open source electronic health records and medical practice management solution.
+
+Accomplishment - 
+a) impliment many new concept
+b) Increased PHP skills
+c) jQuery input validation
+d) Client-side rendering via AJAX
+
+8) MedBlinks Academy - MedBlinks Academy Wordpress website for selling online courses.
+
+Accomplishment - 
+a) Integrate Woocommerce Product to learnDash course
+b) Use FusionBuilder
+c) Explored how to sale courses
+
+
+http://ec2-13-232-189-92.ap-south-1.compute.amazonaws.com/wordpress/
+9) Skiled Now - Skiled Now Wordpress website To Enhance Buisness and soft skills knowledge
+
+Accomplishment - 
+a) Resolve bugs resolution
+b) Impliment some new features
+c) MySQL Backend
+
+
+
+wplmssupport / DfUZ0qLEmX@%kmKUANKpCxct
+
+
+

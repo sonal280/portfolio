@@ -152,7 +152,7 @@
                         <div class="heading white">
                             <strong class="filltext">About us</strong>
                             <h2><span>Passionate</span> about developing software that improves the lives of those around us.</h2>
-                            <p>I Worked on static or dynamic projects for corporates and individual too. I have serious passion for developing dynamic websites and creating intuitive & responsive websites. I am Problem solver, independent employee with high attention to detail.</p>
+                            <p>I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself and do interesting things that matter.</p>
                             <h4 class="current-focus margin-b-50"><b>Current Focus: </b><a href="https://laravel.com/" target="_blank">Laravel</a> / <a href="https://wordpress.org/" target="_blank">Wordpress</a></h4>
                             <br>
                         <a href="#" class="cbtn cbnt1 fadeInDown animated">download cv <i class="fal fa-angle-right"></i></a>
@@ -176,7 +176,7 @@
                     </div>
                     <div class="col-lg-6 align-self-center">
                          <div class="info-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ratione reprehenderit, error qui enim sit ex provident </p>
+                            <p>The Years teach much which the days never know. Be brave. Take Risk. Nothing can substitute experience.</p>
                         </div>
                     </div>
                 </div>
@@ -186,11 +186,13 @@
                         <div class="skill-box">
                             <small>Jan 2020 -  Present (Junior Developer)</small>
                             <h5>Virasat Solution</h5>
+                            <p>Working as a junior php developer. During this timespan I'm experimenting & learning a number of new tech skills. </p>
                             <h4>Develop Product - </h4>
                             <ul>
-                                <li> - Contribute in updation of maany projects using PHP, MySQL, Wordpress, AJAX, jQuery</li>
-                                <li> - Develop one projects in wordpress</li>
-                                <li><b> - Tools: </b>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, PHP, MySQL, Wordprress, Github</li>
+                                <li> - Contributed in updation of many projects using PHP, MySQL, Wordpress, AJAX, jQuery, Codeigniter</li>
+                                <li> - Debug and resolve all issues, check workflow of Upgraded Codeigniter project from previuos version to latest Codeigniter 4</li>
+                                <li> - Developed one projects in wordpress</li>
+                                <li><b> - Tools: </b>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, PHP, MySQL, Wordprress, Github, Gitlab</li>
                             </ul>
                             <br>
                             <h4>Achievement - </h4>
@@ -206,10 +208,13 @@
                         <div class="skill-box">
                             <small>Aug 2019 - Nov 2019 (Junior Developer)</small>
                             <h5>Proximity IT Solution</h5>
+                            <p>This was one of the breakpoint in my life. I decided to shift my career from teaching to development. So I joined Proximity IT Solution as a trainee and added new skills to my toolbelt.</p>
                             <h4>Develop Product - </h4>
                             <ul>
-                                <li> - Contribute in updation of maany projects using PHP, MySQL, AJAX, jQuery</li>
-                                <li> - Develop one projects from scratch</li>
+                                <li> - Contributed in updation of maany projects using PHP, MySQL, AJAX, jQuery</li>
+                                <li> - Worked on dashboard of CGRTI Sangh Project about social worker of 
+Making people aware of the right to equality</li>
+                                <li> - Developed one projects from scratch</li>
                                 <li><b> - Tools: </b>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, PHP, MySQL</li>
                             </ul>
                             <br>
@@ -226,6 +231,7 @@
                         <div class="skill-box">
                             <small>Dec 2017 - Aug 2019 (Lecturer)</small>
                             <h5>M.M. College of technology</h5>
+                            <p>Initial Stage of my career. I worked as a lecturer. </p>
                             <h4>Achievement - </h4>
                             <ul>
                                 <li> - Build Self Confidence & teach how to handle different-different types of people</li>
@@ -254,7 +260,7 @@
                     </div>
                     <div class="col-lg-6 align-self-center">
                          <div class="info-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ratione reprehenderit, error qui enim sit ex provident </p>
+                            <p>Here list of all skills and technologies which I have added into my toolbelt</p>
                         </div>
                     </div>
                 </div>
@@ -349,7 +355,7 @@
                     </div>
                     <div class="col-lg-6 align-self-center">
                          <div class="info-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ratione reprehenderit, error qui enim sit ex provident </p>
+                            <p>My Education background  </p>
                         </div>
                     </div>
                 </div>
@@ -424,79 +430,193 @@
                     </div>
                     <div class="col-lg-5 align-self-center">
                          <div class="info-content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ratione reprehenderit </p>
+                            <p>listed all of my projects here. You can see my all projects which I developed in different-different platforms.</p>
                         </div>
                     </div>
                 </div>
                 <div class="space-60"></div>
                 <div class="row">
                     <div class="col-md-4">
-                        <a href="portfolio.html">
-                            <img src="assets/img/project/project1.png" alt="">
-                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
-                        </a>
+                        <div class="content">
+                            <a href="portfolio.html">
+                                <div class="content-overlay"></div>
+                                    <img src="assets/img/project/project1.png" alt="" class="content-image">
+                                    <div class="content-details fadeIn-top">
+                                    <h3 style="text-align:left">Skiled Now</h3>
+                                    <p style="text-align:left; font-size:15px">Skiled Now Wordpress website To Enhance Buisness and soft skills knowledge.</p>
+                                    <h4 style="text-align:left">Accomplishment </h4>
+                                    <ul>
+                                        <li style="color:white; text-align:left"> - Resolve bugs resolution</li>
+                                        <li style="color:white; text-align:left"> - Impliment some new features</li>
+                                        <li style="color:white; text-align:left"> - MySQL Backend</li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 
                     <div class="col-md-4">
-                        <a href="portfolio.html">
-                            <img src="assets/img/project/project2.png" alt="">
-                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
-                        </a>
+                        <div class="content">
+                            <a href="portfolio.html">
+                                <div class="content-overlay"></div>
+                                    <img src="assets/img/project/project1.png" alt="" class="content-image">
+                                    <div class="content-details fadeIn-top">
+                                    <h3 style="text-align:left">MedBlinks Academy</h3>
+                                    <p style="text-align:left; font-size:15px">MedBlinks Academy Wordpress website for selling online courses.</p>
+                                    <h4 style="text-align:left">Accomplishment </h4>
+                                    <ul>
+                                        <li style="color:white; text-align:left"> - Integrate Woocommerce Product to learnDash course</li>
+                                        <li style="color:white; text-align:left"> - Use FusionBuilder</li>
+                                        <li style="color:white; text-align:left"> - Explored how to sale courses</li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 
                     <div class="col-md-4">
-                        <a href="portfolio.html">
-                            <img src="assets/img/project/project3.png" alt="">
-                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
-                        </a>
+                        <div class="content">
+                            <a href="portfolio.html">
+                                <div class="content-overlay"></div>
+                                    <img src="assets/img/project/project1.png" alt="" class="content-image">
+                                    <div class="content-details fadeIn-top">
+                                    <h3 style="text-align:left">OpenEMR</h3>
+                                    <p style="text-align:left; font-size:15px">open source electronic health records and medical practice management solution.</p>
+                                    <h4 style="text-align:left">Accomplishment </h4>
+                                    <ul>
+                                        <li style="color:white; text-align:left"> - impliment many new concept</li>
+                                        <li style="color:white; text-align:left"> - Increased PHP skills</li>
+                                        <li style="color:white; text-align:left"> - jQuery input validation</li>
+                                        <li style="color:white; text-align:left"> - Client-side rendering via AJAX</li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 </div>
 
                 <div class="space-60"></div>
                 <div class="row">
                     <div class="col-md-4 ">
-                        <a href="portfolio.html">
-                            <img src="assets/img/project/project1.png" alt="">
-                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
-                        </a>
+                        <div class="content">
+                            <a href="portfolio.html">
+                                <div class="content-overlay"></div>
+                                    <img src="assets/img/project/project1.png" alt="" class="content-image">
+                                    <div class="content-details fadeIn-top">
+                                    <h3 style="text-align:left">Darpan (News Portal)</h3>
+                                    <p style="text-align:left; font-size:15px">Demo News Portal which covers technology related information developed by using codeignitor</p>
+                                    <h4 style="text-align:left">Accomplishment </h4>
+                                    <ul>
+                                        <li style="color:white; text-align:left"> - Responsive design</li>
+                                        <li style="color:white; text-align:left"> - Database design</li>
+                                        <li style="color:white; text-align:left"> - MySQL Backend</li>
+                                        <li style="color:white; text-align:left"> - Javascript & Jquery input validation</li>
+                                        <li style="color:white; text-align:left"> - Client-side rendering via AJAX</li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 
                     <div class="col-md-4">
-                        <a href="portfolio.html">
-                            <img src="assets/img/project/project2.png" alt="">
-                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
-                        </a>
+                        <div class="content">
+                            <a href="portfolio.html">
+                                <div class="content-overlay"></div>
+                                    <img src="assets/img/project/project1.png" alt="" class="content-image">
+                                    <div class="content-details fadeIn-top">
+                                    <h3 style="text-align:left">Chhattisgrah Rajya (News Portal)</h3>
+                                    <p style="text-align:left; font-size:15px">It covers from different-different fields such as national, international news, buisness, astrology, health and sports Entertainment, Crime etc related news.</p>
+                                    <h4 style="text-align:left">Accomplishment </h4>
+                                    <ul>
+                                        <li style="color:white; text-align:left"> - Database design</li>
+                                        <li style="color:white; text-align:left"> - MySQL Backend</li>
+                                        <li style="color:white; text-align:left"> - Javascript & Jquery input validation</li>
+                                        <li style="color:white; text-align:left"> - Client-side rendering via AJAX</li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 
                     <div class="col-md-4">
-                        <a href="portfolio.html">
-                            <img src="assets/img/project/project3.png" alt="">
-                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
-                        </a>
+                        <div class="content">
+                            <a href="portfolio.html">
+                                <div class="content-overlay"></div>
+                                    <img src="assets/img/project/project1.png" alt="" class="content-image">
+                                    <div class="content-details fadeIn-top">
+                                    <h3 style="text-align:left">CGRTI SANGH</h3>
+                                    <p style="text-align:left; font-size:15px">Responsive website for community itself. CGRTI SANGH website for organize their upcomming events, survey, become membership through this site.</p>
+                                    <h4 style="text-align:left">Accomplishment </h4>
+                                    <ul>
+                                        <li style="color:white; text-align:left"> - Responsive design</li>
+                                        <li style="color:white; text-align:left"> - Many concept implimentation</li>
+                                        <li style="color:white; text-align:left"> - JavaScript Input validation</li>
+                                        <li style="color:white; text-align:left"> - Operation perform via AJAX</li>
+                                        <li style="color:white; text-align:left"> - Hindi Language Support</li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 </div>
 
                 <div class="space-60"></div>
                 <div class="row">
                     <div class="col-md-4">
-                        <a href="portfolio.html">
-                            <img src="assets/img/project/project1.png" alt="">
-                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
-                        </a>
+                        <div class="content">
+                            <a href="portfolio.html">
+                                <div class="content-overlay"></div>
+                                    <img src="assets/img/project/project1.png" alt="" class="content-image">
+                                    <div class="content-details fadeIn-top">
+                                    <h3 style="text-align:left">SKT Photography</h3>
+                                    <p style="text-align:left; font-size:15px">Personal Portfolio site for SKT Photography.</p>
+                                    <h4 style="text-align:left">Accomplishment </h4>
+                                    <ul>
+                                        <li style="color:white; text-align:left"> - Dynamic Portfolio site</li>
+                                        <li style="color:white; text-align:left"> - Responsive Design</li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 
                     <div class="col-md-4">
-                        <a href="portfolio.html">
-                            <img src="assets/img/project/project2.png" alt="">
-                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
-                        </a>
+                        <div class="content">
+                            <a href="https://scribblebyte.sonalchoudhary.in">
+                                <div class="content-overlay"></div>
+                                    <img src="assets/img/project/scribble_byte.png" alt="" class="content-image">
+                                    <div class="content-details fadeIn-top">
+                                    <h3 style="text-align:left">Scribble Byte</h3>
+                                    <p style="text-align:left; font-size:15px">It basically covers all fields such as News, Lifestyle, Technology, Sports and health tips as well. It is a blend of all flavours for leisure or information purpose.</p>
+                                    <h4 style="text-align:left">Accomplishment </h4>
+                                    <ul>
+                                        <li style="color:white; text-align:left"> - Demo Site for PHP MySQL</li>
+                                        <li style="color:white; text-align:left"> - Responsive Design</li>
+                                        <li style="color:white; text-align:left"> - JavaScript Input Validation </li>
+                                        <li style="color:white; text-align:left"> - Google Map Integration </li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 
                     <div class="col-md-4">
-                        <a href="portfolio.html">
-                            <img src="assets/img/project/project3.png" alt="">
-                            <div style="display: flex; transition: all 300ms ease 0s; left: -100%; top: 0px;"><span>Menu by Simon Jensen</span></div>
-                        </a>
+                        <div class="content">
+                            <a href="https://tvct.sonalchoudhary.in">
+                                <div class="content-overlay"></div>
+                                    <img src="assets/img/project/tvct.png" alt="" class="content-image">
+                                    <div class="content-details fadeIn-top">
+                                    <h3 style="text-align:left">TVCT</h3>
+                                    <p style="text-align:left; font-size:15px">Responsive website for college. It is basically developed for learning purpose. </p>
+                                    <h4 style="text-align:left">Accomplishment </h4>
+                                    <ul>
+                                        <li style="color:white; text-align:left"> - Demo Site for college</li>
+                                        <li style="color:white; text-align:left"> - Responsive Design</li>
+                                        <li style="color:white; text-align:left"> - Google Map Integration</li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
