@@ -6,7 +6,7 @@
 <!-- Mirrored from fleexstudio.com/demo/html/glint/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Jul 2020 16:59:27 GMT -->
 <head>
     <!--HEAD START-->
-    <title>Glint</title>
+    <title>Sonal Choudhary</title>
     <!--::::: support meta :::::::-->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -86,7 +86,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-6 col-lg-3 align-self-center">
-                        <a href="index.php" class="logo"><img src="assets/img/logo/logo.png" alt=""></a>
+                        <a href="index.php" class="logo">Sonal Choudhary</a>
                     </div>
                     <div class="col-8 text-center align-self-center">
                         <div class="main-menu">
@@ -150,7 +150,7 @@
                     </div>
                     <div class="col-lg-6 offset-lg-1 align-self-center">
                         <div class="heading white">
-                            <strong class="filltext">About us</strong>
+                            <strong class="filltext">About me</strong>
                             <h2><span>Passionate</span> about developing software that improves the lives of those around us.</h2>
                             <p>I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself and do interesting things that matter.</p>
                             <h4 class="current-focus margin-b-50"><b>Current Focus: </b><a href="https://laravel.com/" target="_blank">Laravel</a> / <a href="https://wordpress.org/" target="_blank">Wordpress</a></h4>
@@ -183,7 +183,7 @@
                 <div class="space-60"></div>
                 <div class="row">
                     <div class="col-sm-12 col-lg-12">
-                        <div class="skill-box">
+                        <div class="skill-box odd_experience_number">
                             <small>Jan 2020 -  Present (Junior Developer)</small>
                             <h5>Virasat Solution</h5>
                             <p>Working as a junior php developer. During this timespan I'm experimenting & learning a number of new tech skills. </p>
@@ -204,9 +204,9 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-lg-12">
-                        <div class="skill-box">
-                            <small>Aug 2019 - Nov 2019 (Junior Developer)</small>
+                    <div class="col-sm-12 col-lg-12 ">
+                        <div class="skill-box even_experience_number">
+                            <small>Aug 2019 - Nov 2019 (Trainee)</small>
                             <h5>Proximity IT Solution</h5>
                             <p>This was one of the breakpoint in my life. I decided to shift my career from teaching to development. So I joined Proximity IT Solution as a trainee and added new skills to my toolbelt.</p>
                             <h4>Develop Product - </h4>
@@ -228,7 +228,7 @@ Making people aware of the right to equality</li>
                         </div>
                     </div>
                     <div class="col-sm-12 col-lg-12">
-                        <div class="skill-box">
+                        <div class="skill-box odd_experience_number">
                             <small>Dec 2017 - Aug 2019 (Lecturer)</small>
                             <h5>M.M. College of technology</h5>
                             <p>Initial Stage of my career. I worked as a lecturer. </p>
@@ -618,6 +618,171 @@ Making people aware of the right to equality</li>
                             </a>
                         </div>
                     </div>
+                </div>
+                <div class="row portfolio-list">
+                    <div class="col-md-4 barnding">
+                        <div class="portfolio-wrap">
+                             <div class="single-portfolio-item lage portfolio-bg-1">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-table">
+                                        <div class="portfolio-hover-table-cell">
+                                            <a href="single-portfolio.php"><i class="fa fa-eye"></i></a>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-description">
+                                <h6>29 November 2019</h6>
+                                <h3>Architecture, Digital Art</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 barnding agency design app-design">
+                        <div class="portfolio-wrap">
+                             <div class="single-portfolio-item lage portfolio-bg-2">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-table">
+                                        <div class="portfolio-hover-table-cell">
+                                            <a href="single-portfolio.php"><i class="fa fa-eye"></i></a>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-description">
+                                <h6>29 November 2019</h6>
+                                <h3>Architecture, Digital Art</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 barnding agency">
+                        <div class="portfolio-wrap">
+                             <div class="single-portfolio-item lage portfolio-bg-3">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-table">
+                                        <div class="portfolio-hover-table-cell">
+                                            <a href="single-portfolio.php"><i class="fa fa-eye"></i></a>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-description">
+                                <h6>29 November 2019</h6>
+                                <h3>Architecture, Digital Art</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 barnding app-design">
+                        <div class="portfolio-wrap">
+                             <div class="single-portfolio-item lage portfolio-bg-4">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-table">
+                                        <div class="portfolio-hover-table-cell">
+                                            <a href="single-portfolio.html"><i class="fa fa-eye"></i></a>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-description">
+                                <h6>29 November 2019</h6>
+                                <h3>Architecture, Digital Art</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 barnding design agency">
+                        <div class="portfolio-wrap">
+                             <div class="single-portfolio-item lage portfolio-bg-6">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-table">
+                                        <div class="portfolio-hover-table-cell">
+                                            <a href="single-portfolio.html"><i class="fa fa-eye"></i></a>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-description">
+                                <h6>29 November 2019</h6>
+                                <h3>Architecture, Digital Art</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 agency design app-design">
+                        <div class="portfolio-wrap">
+                             <div class="single-portfolio-item lage portfolio-bg-5">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-table">
+                                        <div class="portfolio-hover-table-cell">
+                                            <a href="single-portfolio.html"><i class="fa fa-eye"></i></a>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-description">
+                                <h6>29 November 2019</h6>
+                                <h3>Architecture, Digital Art</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 barnding agency">
+                        <div class="portfolio-wrap">
+                             <div class="single-portfolio-item lage portfolio-bg-3">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-table">
+                                        <div class="portfolio-hover-table-cell">
+                                            <a href="single-portfolio.php"><i class="fa fa-eye"></i></a>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-description">
+                                <h6>29 November 2019</h6>
+                                <h3>Architecture, Digital Art</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 barnding app-design">
+                        <div class="portfolio-wrap">
+                             <div class="single-portfolio-item lage portfolio-bg-4">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-table">
+                                        <div class="portfolio-hover-table-cell">
+                                            <a href="single-portfolio.html"><i class="fa fa-eye"></i></a>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-description">
+                                <h6>29 November 2019</h6>
+                                <h3>Architecture, Digital Art</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 barnding app-design">
+                        <div class="portfolio-wrap">
+                             <div class="single-portfolio-item lage portfolio-bg-4">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-table">
+                                        <div class="portfolio-hover-table-cell">
+                                            <a href="single-portfolio.html"><i class="fa fa-eye"></i></a>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-description">
+                                <h6>29 November 2019</h6>
+                                <h3>Architecture, Digital Art</h3>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </div>

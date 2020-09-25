@@ -42,6 +42,11 @@ a {
     -webkit-transition: 0.3s;
     transition: 0.3s;
     display: inline-block;
+   
+}
+.logo{
+    font-size: 25px;
+    color: #08d665;
 }
 
 a:hover {
